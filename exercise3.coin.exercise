@@ -1,0 +1,13 @@
+1 = lose, if there is one coin left, you lose 
+2 = win
+3 = win 
+4 = lose 
+5 = win 
+6 = win 
+7 = lose 
+8 = win
+9 = win 
+10 = lose 
+
+(number - 1) % 3 == 0 
+(number - 1) % 3! = 0
