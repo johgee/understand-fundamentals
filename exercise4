@@ -1,0 +1,9 @@
+programming language , how to talk to a computer 
+
+z = 7
+if x == 7:
+  print (True)
+else: 
+  print(False)
+
+print(x == 7)
