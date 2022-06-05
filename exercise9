@@ -1,0 +1,3 @@
+a = "hello"
+b = " there!"
+puts a + b
