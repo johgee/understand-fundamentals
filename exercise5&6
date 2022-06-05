@@ -1,0 +1,28 @@
+// array = a list of things // a list of data // a list of information
+
+// the map pattern
+// [4, 6, 8, 1, 3] (*2) becomes [8, 12, 16, 2, 6]
+// [4, 6, 8, 1, 3] (-3) becomes [1, 3, 5, -2, 0]
+
+// tools:
+// array
+//   create an array
+//   add something to the end of an array
+//   check what item is at each index of an array
+//   check the number of items within an array
+// create/update variables
+// basic math
+// loop
+//runs while a certain condition is true
+//===========================================
+// array => [4, 6, 8, 1, 3]
+// new_array => []
+// index => 0
+
+// loop while index less than the number of items within array variable
+//   find the number at the index within the array
+//     then multiply the number by 2
+//     then add result to the end of new_array
+//   increase index by 1
+
+// output: new_array
