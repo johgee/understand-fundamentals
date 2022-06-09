@@ -1,0 +1,13 @@
+know the data types!
+
+github for httprb // http
+
+json API
+
+ruby gem 'http' = library
+
+///// require "http" 
+/////  response = HTTP.get("URL").to_s OR .body OR .parse 
+
+
+///// p response[0] 
