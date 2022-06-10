@@ -1,0 +1,6 @@
+data dive
+under irb(main)
+irb(main)weather["query"]["reuslts"]["units"]
+irb(main)weather["query"]["reuslts"]["item"]["condition"]["temp"]
+
+

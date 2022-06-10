@@ -1,0 +1,28 @@
+tradeoffs
+-never one "best" solution to a problbem
+
+C
+
+#include <stdio.h>
+int main()
+{
+  int a = 1;
+  while (a <= 100)
+  {
+    printf ("hello world\n");
+    a++;
+  }
+  return 0;
+}
+
+C IS FASTER
+
+RUBY 
+100.times do
+  puts "hello word"
+end 
+
+RUBY IS EASIER TO READ
+
+financial software companies = speed 
+company website = maybe easier to read 
