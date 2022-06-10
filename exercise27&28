@@ -1,0 +1,20 @@
+opensource = open and available to the public to see
+
+FORK = make a copy and click personal github account
+-clone or download
+-copy
+-go to terminal and 'git clone ~'
+
+-look for using 'find'
+
+-maybe look for a contribution guide
+-use the replace function with a text editor
+
+-create a git branch
+-'staging' my commits
+-git push to my branch
+-go back to github & refresh
+
+-compare and pull request
+-write out the title & description
+-create pull request
