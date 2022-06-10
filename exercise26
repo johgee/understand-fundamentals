@@ -1,0 +1,18 @@
+converting the world into code 
+
+write a function that acceps an array of candle heights, andreturns the number of candles your son will blow out.
+input: [5, 4, 5, 3, 5]
+output: 3
+
+1. determine what the highest number withi nteh array is
+2. count how many highest numbers there are 
+
+def count_highest_candes 
+  return array.count(array.max)
+end 
+
+array = [5, 4, 5, 3, 5]
+
+array.max // will be 5
+array.count(5) // will come out to be 3 
+array.count(array.max) will come out to be 3
