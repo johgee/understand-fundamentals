@@ -1,0 +1,13 @@
+let message = "hello";
+console.log(message);
+message = "goodbye"; 
+
+let message = "hello";
+
+function printMessage() {
+  console.log(message);
+}
+
+message = "goodbye";
+
+printMessage();
